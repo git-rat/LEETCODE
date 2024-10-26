@@ -40,4 +40,12 @@ way to go 🙋!
 | [0094-binary-tree-inorder-traversal](https://github.com/yolorat/LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yolorat/LEETCODE-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yolorat/LEETCODE-/tree/master/0145-binary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
+## Sorting
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
 <!---LeetCode Topics End-->

@@ -50,4 +50,8 @@ way to go 🙋!
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/yolorat/LEETCODE-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

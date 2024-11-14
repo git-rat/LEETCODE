@@ -45,6 +45,7 @@ way to go 🙋!
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/yolorat/LEETCODE-/tree/master/0058-length-of-last-word) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
 ## Sorting

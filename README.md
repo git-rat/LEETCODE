@@ -13,6 +13,7 @@ way to go 🙋!
 | ------- |
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yolorat/LEETCODE-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |

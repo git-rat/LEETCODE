@@ -14,11 +14,13 @@ way to go 🙋!
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +56,7 @@ way to go 🙋!
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
@@ -64,8 +67,13 @@ way to go 🙋!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->

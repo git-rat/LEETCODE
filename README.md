@@ -65,6 +65,7 @@ way to go 🙋!
 | ------- |
 | [0009-palindrome-number](https://github.com/yolorat/LEETCODE-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +85,12 @@ way to go 🙋!
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

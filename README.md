@@ -14,6 +14,7 @@ way to go 🙋!
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/yolorat/LEETCODE-/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/yolorat/LEETCODE-/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -130,6 +131,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yolorat/LEETCODE-/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/yolorat/LEETCODE-/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |

@@ -8,7 +8,7 @@ class Solution {
    
       for(int i = 0; i < nums.length; i++){ 
         if(used[i]){continue;}
-        if(i>0 && nums[i-1]==nums[i] && used[i-1]){
+        if(i>0 && nums[i-1]==nums[i] && !used[i-1]){
             continue;
         }
         used[i]=true;

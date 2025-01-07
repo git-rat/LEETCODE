@@ -21,6 +21,7 @@ way to go 🙋!
 | [0090-subsets-ii](https://github.com/yolorat/LEETCODE-/tree/master/0090-subsets-ii) |
 | [0303-range-sum-query-immutable](https://github.com/yolorat/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yolorat/LEETCODE-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/yolorat/LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
@@ -62,6 +63,7 @@ way to go 🙋!
 | [0020-valid-parentheses](https://github.com/yolorat/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yolorat/LEETCODE-/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
+| [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yolorat/LEETCODE-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -103,6 +105,7 @@ way to go 🙋!
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |

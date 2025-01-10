@@ -20,6 +20,7 @@ way to go 🙋!
 | [0078-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yolorat/LEETCODE-/tree/master/0090-subsets-ii) |
 | [0303-range-sum-query-immutable](https://github.com/yolorat/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
+| [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -29,6 +30,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
+| [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Stack
@@ -63,6 +65,7 @@ way to go 🙋!
 | [0020-valid-parentheses](https://github.com/yolorat/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yolorat/LEETCODE-/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
+| [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yolorat/LEETCODE-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |

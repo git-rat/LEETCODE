@@ -24,6 +24,7 @@ way to go 🙋!
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1876-map-of-highest-peak](https://github.com/yolorat/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yolorat/LEETCODE-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/yolorat/LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
@@ -167,4 +168,12 @@ way to go 🙋!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yolorat/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/yolorat/LEETCODE/tree/master/1876-map-of-highest-peak) |
+## Matrix
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/yolorat/LEETCODE/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->

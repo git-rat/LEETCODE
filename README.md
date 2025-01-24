@@ -26,6 +26,7 @@ way to go 🙋!
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
+| [1769-get-maximum-in-generated-array](https://github.com/yolorat/LEETCODE/tree/master/1769-get-maximum-in-generated-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yolorat/LEETCODE-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-map-of-highest-peak](https://github.com/yolorat/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yolorat/LEETCODE-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -124,6 +125,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
+| [1769-get-maximum-in-generated-array](https://github.com/yolorat/LEETCODE/tree/master/1769-get-maximum-in-generated-array) |
 ## Number Theory
 |  |
 | ------- |

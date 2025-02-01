@@ -33,6 +33,7 @@ way to go 🙋!
 | [2145-grid-game](https://github.com/yolorat/LEETCODE/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/yolorat/LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yolorat/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3429-special-array-i](https://github.com/yolorat/LEETCODE/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |

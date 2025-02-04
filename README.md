@@ -39,6 +39,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yolorat/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
@@ -76,6 +77,7 @@ way to go 🙋!
 | ------- |
 | [0020-valid-parentheses](https://github.com/yolorat/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yolorat/LEETCODE-/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
@@ -89,6 +91,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
 ## Math

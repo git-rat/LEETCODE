@@ -209,4 +209,8 @@ way to go 🙋!
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/yolorat/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

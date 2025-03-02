@@ -36,6 +36,7 @@ way to go 🙋!
 | [2358-number-of-ways-to-split-array](https://github.com/yolorat/LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yolorat/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/yolorat/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3429-special-array-i](https://github.com/yolorat/LEETCODE/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ way to go 🙋!
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +127,7 @@ way to go 🙋!
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2551-apply-operations-to-an-array](https://github.com/yolorat/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
 | ------- |

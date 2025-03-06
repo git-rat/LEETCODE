@@ -38,6 +38,7 @@ way to go 🙋!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yolorat/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/yolorat/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/yolorat/LEETCODE/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ way to go 🙋!
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ way to go 🙋!
 | [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/yolorat/LEETCODE-/tree/master/1013-fibonacci-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ way to go 🙋!
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/yolorat/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/yolorat/LEETCODE/tree/master/2145-grid-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
 | ------- |

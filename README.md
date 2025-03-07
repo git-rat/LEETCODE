@@ -32,6 +32,7 @@ way to go 🙋!
 | [1876-map-of-highest-peak](https://github.com/yolorat/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yolorat/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yolorat/LEETCODE-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2058-concatenation-of-array](https://github.com/yolorat/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/yolorat/LEETCODE/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yolorat/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2358-number-of-ways-to-split-array](https://github.com/yolorat/LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
@@ -144,6 +145,7 @@ way to go 🙋!
 | [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/yolorat/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1769-get-maximum-in-generated-array](https://github.com/yolorat/LEETCODE/tree/master/1769-get-maximum-in-generated-array) |
+| [2058-concatenation-of-array](https://github.com/yolorat/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yolorat/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/yolorat/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory

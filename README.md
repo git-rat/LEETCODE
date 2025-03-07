@@ -40,6 +40,7 @@ way to go 🙋!
 | [2551-apply-operations-to-an-array](https://github.com/yolorat/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/yolorat/LEETCODE/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ way to go 🙋!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yolorat/LEETCODE-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ way to go 🙋!
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -230,4 +233,16 @@ way to go 🙋!
 | [0584-find-customer-referee](https://github.com/yolorat/LEETCODE/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/yolorat/LEETCODE/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/yolorat/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->

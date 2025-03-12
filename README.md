@@ -86,6 +86,7 @@ way to go 🙋!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yolorat/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yolorat/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yolorat/LEETCODE-/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
@@ -238,6 +239,7 @@ way to go 🙋!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yolorat/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |

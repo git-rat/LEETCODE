@@ -38,6 +38,7 @@ way to go 🙋!
 | [2358-number-of-ways-to-split-array](https://github.com/yolorat/LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yolorat/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/yolorat/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yolorat/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -121,6 +122,7 @@ way to go 🙋!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yolorat/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,4 +247,8 @@ way to go 🙋!
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yolorat/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->

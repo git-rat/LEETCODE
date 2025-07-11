@@ -94,6 +94,7 @@ way to go 🙋!
 | [0020-valid-parentheses](https://github.com/yolorat/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yolorat/LEETCODE-/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/git-rat/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
@@ -142,6 +143,7 @@ way to go 🙋!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/git-rat/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/yolorat/LEETCODE-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/git-rat/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |

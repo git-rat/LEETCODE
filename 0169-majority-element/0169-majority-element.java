@@ -14,3 +14,5 @@ class  Solution {
 
         }
 }
+//check other ans in the submissions 
+//get varsha laptop for other submisiion and post it 

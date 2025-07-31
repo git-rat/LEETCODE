@@ -19,6 +19,7 @@ way to go 🙋!
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yolorat/LEETCODE-/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yolorat/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/git-rat/LEETCODE/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/yolorat/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
@@ -50,6 +51,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
@@ -110,6 +112,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yolorat/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -137,6 +140,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yolorat/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -271,6 +275,7 @@ way to go 🙋!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yolorat/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |

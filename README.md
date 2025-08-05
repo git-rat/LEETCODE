@@ -102,6 +102,7 @@ way to go 🙋!
 | [0125-valid-palindrome](https://github.com/git-rat/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yolorat/LEETCODE-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -131,6 +132,7 @@ way to go 🙋!
 | [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yolorat/LEETCODE-/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/yolorat/LEETCODE-/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -175,6 +177,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/yolorat/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1769-get-maximum-in-generated-array](https://github.com/yolorat/LEETCODE/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/yolorat/LEETCODE/tree/master/2058-concatenation-of-array) |

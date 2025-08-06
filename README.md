@@ -19,6 +19,7 @@ way to go 🙋!
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yolorat/LEETCODE-/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/git-rat/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yolorat/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/git-rat/LEETCODE/tree/master/0283-move-zeroes) |
@@ -193,6 +194,7 @@ way to go 🙋!
 | ------- |
 | [0062-unique-paths](https://github.com/yolorat/LEETCODE-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yolorat/LEETCODE-/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/git-rat/LEETCODE/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/yolorat/LEETCODE-/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |

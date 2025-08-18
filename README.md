@@ -30,6 +30,7 @@ way to go 🙋!
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yolorat/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/yolorat/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/git-rat/LEETCODE/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
@@ -61,6 +62,7 @@ way to go 🙋!
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yolorat/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -234,6 +236,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yolorat/LEETCODE-/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +248,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yolorat/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -285,6 +289,7 @@ way to go 🙋!
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |

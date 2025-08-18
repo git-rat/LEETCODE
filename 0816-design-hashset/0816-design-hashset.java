@@ -2,7 +2,7 @@ class MyHashSet {
     int b_s (int a, int b, int t, ArrayList<Integer> ar){
     if  (a>b) return Integer.MAX_VALUE;
     else{
-        int mid = a + (b - a) / 2;
+        int mid = (a+b)/2;
         if(ar.get(mid) == t){
             return t;
         }else{

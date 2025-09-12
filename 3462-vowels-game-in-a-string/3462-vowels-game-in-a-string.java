@@ -10,6 +10,7 @@ class Solution {
        if(count ==0){
         return false;
        }
+       /*
        if(count ==1){
         return true;
        }
@@ -17,5 +18,7 @@ class Solution {
         return true;
        }
        return true ;
+       */
+       return true;
     }
 }

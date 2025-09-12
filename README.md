@@ -116,6 +116,7 @@ way to go 🙋!
 | [1970-sorting-the-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1970-sorting-the-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3462-vowels-game-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ way to go 🙋!
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/yolorat/LEETCODE-/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yolorat/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -325,4 +328,8 @@ way to go 🙋!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/git-rat/LEETCODE/tree/master/0948-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

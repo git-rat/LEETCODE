@@ -19,6 +19,7 @@ way to go 🙋!
 | [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/git-rat/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/yolorat/LEETCODE-/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/git-rat/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/git-rat/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -124,6 +125,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/git-rat/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yolorat/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
@@ -166,6 +168,7 @@ way to go 🙋!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yolorat/LEETCODE-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/git-rat/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/git-rat/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/yolorat/LEETCODE-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/git-rat/LEETCODE/tree/master/0283-move-zeroes) |

@@ -32,6 +32,7 @@ way to go 🙋!
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/git-rat/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/git-rat/LEETCODE/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/git-rat/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yolorat/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/yolorat/LEETCODE/tree/master/0735-asteroid-collision) |

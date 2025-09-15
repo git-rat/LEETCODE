@@ -13,6 +13,7 @@ way to go 🙋!
 | ------- |
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/git-rat/LEETCODE/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yolorat/LEETCODE-/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/yolorat/LEETCODE-/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
@@ -148,6 +149,7 @@ way to go 🙋!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yolorat/LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/git-rat/LEETCODE/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yolorat/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |

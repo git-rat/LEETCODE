@@ -114,6 +114,7 @@ way to go 🙋!
 | [0058-length-of-last-word](https://github.com/yolorat/LEETCODE-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/git-rat/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/git-rat/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/git-rat/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -150,6 +151,7 @@ way to go 🙋!
 | [0066-plus-one](https://github.com/yolorat/LEETCODE-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yolorat/LEETCODE-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/git-rat/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/git-rat/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |

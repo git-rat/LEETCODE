@@ -65,6 +65,7 @@ way to go 🙋!
 | [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/git-rat/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/git-rat/LEETCODE/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/git-rat/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
@@ -116,6 +117,7 @@ way to go 🙋!
 | [0168-excel-sheet-column-title](https://github.com/git-rat/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/git-rat/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/git-rat/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |

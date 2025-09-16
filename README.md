@@ -119,6 +119,7 @@ way to go 🙋!
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/git-rat/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/git-rat/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/git-rat/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -186,6 +187,7 @@ way to go 🙋!
 | [0234-palindrome-linked-list](https://github.com/yolorat/LEETCODE-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/git-rat/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/git-rat/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yolorat/LEETCODE-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |

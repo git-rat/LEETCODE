@@ -127,6 +127,7 @@ way to go 🙋!
 | [0387-first-unique-character-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/git-rat/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/git-rat/LEETCODE/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/git-rat/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/git-rat/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -164,6 +165,7 @@ way to go 🙋!
 | [0168-excel-sheet-column-title](https://github.com/git-rat/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/git-rat/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/yolorat/LEETCODE-/tree/master/0258-add-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/git-rat/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/yolorat/LEETCODE-/tree/master/1013-fibonacci-number) |
@@ -277,6 +279,7 @@ way to go 🙋!
 | [0078-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yolorat/LEETCODE-/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/git-rat/LEETCODE/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/git-rat/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yolorat/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Design

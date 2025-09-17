@@ -69,6 +69,7 @@ way to go 🙋!
 | [0347-top-k-frequent-elements](https://github.com/git-rat/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yolorat/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
@@ -122,6 +123,7 @@ way to go 🙋!
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/git-rat/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/git-rat/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -326,6 +328,7 @@ way to go 🙋!
 | [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/git-rat/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yolorat/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
@@ -363,4 +366,8 @@ way to go 🙋!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/git-rat/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

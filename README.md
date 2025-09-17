@@ -68,6 +68,7 @@ way to go 🙋!
 | [0290-word-pattern](https://github.com/git-rat/LEETCODE/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/git-rat/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yolorat/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
@@ -120,6 +121,7 @@ way to go 🙋!
 | [0290-word-pattern](https://github.com/git-rat/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/git-rat/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/git-rat/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -323,6 +325,7 @@ way to go 🙋!
 | ------- |
 | [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/git-rat/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yolorat/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |

@@ -70,6 +70,7 @@ way to go 🙋!
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/git-rat/LEETCODE/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/yolorat/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yolorat/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
@@ -124,6 +125,7 @@ way to go 🙋!
 | [0345-reverse-vowels-of-a-string](https://github.com/git-rat/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/git-rat/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/git-rat/LEETCODE/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/git-rat/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -146,6 +148,7 @@ way to go 🙋!
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/git-rat/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/git-rat/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/git-rat/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/git-rat/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/git-rat/LEETCODE/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -270,6 +273,7 @@ way to go 🙋!
 | ------- |
 | [0078-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yolorat/LEETCODE-/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/git-rat/LEETCODE/tree/master/0389-find-the-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yolorat/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Design

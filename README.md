@@ -129,6 +129,7 @@ way to go 🙋!
 | [0392-is-subsequence](https://github.com/git-rat/LEETCODE/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/git-rat/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0482-license-key-formatting](https://github.com/git-rat/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/git-rat/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |

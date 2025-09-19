@@ -40,6 +40,7 @@ way to go 🙋!
 | [0948-sort-an-array](https://github.com/git-rat/LEETCODE/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/yolorat/LEETCODE-/tree/master/0952-word-subsets) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/git-rat/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yolorat/LEETCODE-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/yolorat/LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1769-get-maximum-in-generated-array](https://github.com/yolorat/LEETCODE/tree/master/1769-get-maximum-in-generated-array) |
@@ -173,6 +174,7 @@ way to go 🙋!
 | [0412-fizz-buzz](https://github.com/git-rat/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0989-largest-component-size-by-common-factor](https://github.com/yolorat/LEETCODE/tree/master/0989-largest-component-size-by-common-factor) |
 | [1013-fibonacci-number](https://github.com/yolorat/LEETCODE-/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/git-rat/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/git-rat/LEETCODE/tree/master/3830-find-closest-person) |

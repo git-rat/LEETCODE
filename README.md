@@ -58,6 +58,7 @@ way to go 🙋!
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/yolorat/LEETCODE/tree/master/3429-special-array-i) |
+| [3797-design-spreadsheet](https://github.com/git-rat/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ way to go 🙋!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yolorat/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3797-design-spreadsheet](https://github.com/git-rat/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@ way to go 🙋!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yolorat/LEETCODE-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yolorat/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3462-vowels-game-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/git-rat/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +291,7 @@ way to go 🙋!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yolorat/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/git-rat/LEETCODE/tree/master/0816-design-hashset) |
+| [3797-design-spreadsheet](https://github.com/git-rat/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +304,7 @@ way to go 🙋!
 | [1876-map-of-highest-peak](https://github.com/yolorat/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/yolorat/LEETCODE/tree/master/2145-grid-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3797-design-spreadsheet](https://github.com/git-rat/LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |

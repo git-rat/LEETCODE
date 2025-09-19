@@ -175,6 +175,7 @@ way to go 🙋!
 | [1013-fibonacci-number](https://github.com/yolorat/LEETCODE-/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/yolorat/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/git-rat/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3830-find-closest-person](https://github.com/git-rat/LEETCODE/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |

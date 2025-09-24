@@ -13,3 +13,5 @@ class Solution {
        return i+1;
     }
 }
+
+ //refer before submission for 1 second optimised 

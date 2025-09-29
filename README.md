@@ -66,6 +66,7 @@ way to go 🙋!
 | ------- |
 | [0001-two-sum](https://github.com/yolorat/LEETCODE-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/git-rat/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/git-rat/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/git-rat/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/git-rat/LEETCODE/tree/master/0290-word-pattern) |
@@ -123,6 +124,7 @@ way to go 🙋!
 | [0125-valid-palindrome](https://github.com/git-rat/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/git-rat/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/git-rat/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/git-rat/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yolorat/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/git-rat/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/yolorat/LEETCODE-/tree/master/0344-reverse-string) |
